@@ -1,0 +1,2 @@
+Hey! You can change the characteristics of the default tmux powerline by going
+to plugins > powerline > themes > 'themename'
